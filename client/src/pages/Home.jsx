@@ -4,7 +4,6 @@ import Hero from '../components/Hero'
 import JobListing from '../components/JobListing'
 import AppDownload from '../components/AppDownload'
 import Footer from '../components/Footer'
-import JobCard from '../components/JobCard'
 
 const Home = () => {
     return (
